@@ -1,6 +1,13 @@
-# qupid.cloud
+# qupid.cloud - dating made quantum 💘
 
 Qupid is a full-stack app that runs a quantum-inspired relationship simulation. The Flask backend exposes simulation endpoints and serves a built React (Vite) frontend with a liquid-glass visual treatment.
+
+<img width="1147" height="590" alt="landing_page" src="https://github.com/user-attachments/assets/00f62f66-bc64-47c8-9551-60bce5651b22" />
+
+<img width="1051" height="698" alt="qupid_text_analysis" src="https://github.com/user-attachments/assets/c51ee24a-ee7a-40a9-93ee-3cfca73e2cee" />
+
+<img width="1012" height="745" alt="qupid_analysis" src="https://github.com/user-attachments/assets/5fd1d574-8f41-489a-9da9-25def3d49d33" />
+
 
 ## Quantum Backend Features
 - Time-dependent, two-qubit Hamiltonian with a periodic drive (Floquet form) to model evolving dynamics.
